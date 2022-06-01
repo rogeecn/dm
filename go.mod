@@ -1,4 +1,4 @@
-module dm
+module github.com/rogeecn/dm
 
 go 1.18
 
